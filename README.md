@@ -1,24 +1,4 @@
 # vue-toolkit
 
-## Project setup
-```
-npm install
-```
+个人用vue组件库，基于element-ui封装，目前有QTable和QForm
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
