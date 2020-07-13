@@ -1,5 +1,5 @@
-import Form from '../packages/form/index.js';
-import Table from '../packages/table/index.js';
+import Form from './form/index.js';
+import Table from './table/index.js';
 
 const components = [
   Form,

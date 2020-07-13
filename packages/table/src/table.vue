@@ -83,12 +83,14 @@
 
 <script>
 import { elTableAttrs } from './config'
+import tableColumn from './tableColumn'
+import tablePagination from './tablePagination'
 
 export default {
   name:'QTable',
   components: {
-    tableColumn: () => import('./tableColumn'),
-    tablePagination: () => import('./tablePagination')
+    tableColumn,
+    tablePagination
   },
   props: {
     data: {
@@ -268,7 +270,7 @@ export default {
   }
 }
 </script>
-<style scoped>
+<style lang="scss" scoped>
 /deep/ .row__active {
   background: #f7fcff;
 }

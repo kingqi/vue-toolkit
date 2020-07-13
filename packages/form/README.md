@@ -1,4 +1,4 @@
-# vue-common-form
+# q-form
 
 基于 elementUI Form组件 封装的 form，[示例页](http://localhost:1888/#/demo/form)，示例代码：`src\views\demo\demoForm.vue`
 
