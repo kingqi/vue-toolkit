@@ -117,7 +117,7 @@
 import { elFormAttrs, elFormItemAttrs, noneItemAttrs, defaultAttrs } from './config'
 
 export default {
-  name: 'QForm',
+  name: 'VForm',
   components: {
     // elTreeSelect: () => import('@/components/elTreeSelect/elTreeSelect')
   },

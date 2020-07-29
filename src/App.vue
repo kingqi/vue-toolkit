@@ -1,6 +1,6 @@
 <template>
 	<div id="app">
-		<q-table
+		<v-table
 			:columns="columns"
 			:data="tableData"
 			:config="tableConfig"
@@ -30,7 +30,7 @@
 					编辑
 				</el-button>
 			</template>
-		</q-table>
+		</v-table>
 	</div>
 </template>
 

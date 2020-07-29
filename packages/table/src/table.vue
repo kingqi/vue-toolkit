@@ -87,7 +87,7 @@ import tableColumn from './tableColumn'
 import tablePagination from './tablePagination'
 
 export default {
-  name:'QTable',
+  name:'VTable',
   components: {
     tableColumn,
     tablePagination
